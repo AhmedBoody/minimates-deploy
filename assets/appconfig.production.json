@@ -1,4 +1,5 @@
 {
+  
   "remoteServiceBaseUrl": "https://minimates-backend.azurewebsites.net",
   "appBaseUrl": "https://minimates-frontend.azurewebsites.net",
   "localeMappings": {

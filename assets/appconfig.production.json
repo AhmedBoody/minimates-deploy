@@ -1,7 +1,6 @@
 {
-  
   "remoteServiceBaseUrl": "https://minimates-backend.azurewebsites.net",
-  "appBaseUrl": "https://minimates-frontend.azurewebsites.net",
+  "appBaseUrl": "https://ahmedboody.github.io/minimates-deploy",
   "localeMappings": {
     "angular": [
       {

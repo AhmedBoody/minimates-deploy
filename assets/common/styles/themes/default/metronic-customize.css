@@ -19,7 +19,7 @@ user-menu {
 }
 
 p-autoComplete {
-    padding: 10px;
+    padding: none;
 }
 
 .menuSearchBarContainer {

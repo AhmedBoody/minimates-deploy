@@ -3964,6 +3964,7 @@ textarea.form-control-lg {
 
 .tab-content > .tab-pane {
   display: none;
+  border: 1px solid #dedede !important;
 }
 .tab-content > .active {
   display: block;
